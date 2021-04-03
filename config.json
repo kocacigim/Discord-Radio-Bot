@@ -1,7 +1,7 @@
 {
-    "TOKEN": "TOKEN_BURAYA_AYBALIM",
-    "CHANNEL": "812763605594144778",
-    "SERVER": "795308074515693568",
-    "STATUS": "Kocacigim Çok Güzel Bir Developer",
-    "LIVE": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+    "TOKEN": "Discord_Bot_Token",
+    "CHANNEL": "Channel_ID",
+    "SERVER": "Server_ID",
+    "STATUS": "Kocacigim is very good developer",
+    "LIVE": "Youtube_Stream_Link"
   }
